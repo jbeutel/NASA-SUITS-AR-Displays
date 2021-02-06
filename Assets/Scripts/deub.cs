@@ -4,15 +4,12 @@ using UnityEngine;
 
 public class deub : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+
+    public GameObject heartratebutton;
+    
+    public void buttonpressed()
     {
-        
+        Debug.Log("Button hit");
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
