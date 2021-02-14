@@ -2,18 +2,18 @@
   "scopedRegistries": [
     {
       "name": "Maps SDK for Unity",
-      "url": "https://unity.virtualearth.net/npm/registry/",
       "scopes": [
         "com.microsoft.maps"
-      ]
+      ],
+      "url": "https:\/\/unity.virtualearth.net\/npm\/registry\/"
     },
     {
       "name": "Microsoft Mixed Reality",
-      "url": "https://pkgs.dev.azure.com/aipmr/MixedReality-Unity-Packages/_packaging/Unity-packages/npm/registry/",
       "scopes": [
         "com.microsoft.mixedreality",
         "com.microsoft.spatialaudio"
-      ]
+      ],
+      "url": "https:\/\/pkgs.dev.azure.com\/aipmr\/MixedReality-Unity-Packages\/_packaging\/Unity-packages\/npm\/registry\/"
     }
   ],
   "dependencies": {
