@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/UserInterface guides.unity
+- path: Assets/MRTK/Examples/Demos/EyeTracking/Scenes/EyeTrackingDemo-00-RootScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
