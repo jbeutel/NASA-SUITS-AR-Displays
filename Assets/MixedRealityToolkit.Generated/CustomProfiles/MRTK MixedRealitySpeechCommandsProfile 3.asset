@@ -45,42 +45,42 @@ MonoBehaviour:
       description: Toggle Profiler
       axisConstraint: 0
   - localizationKey: 
-    keyword: Toggle Notaking
+    keyword: Jarvis Notaking
     keyCode: 0
     action:
       id: 0
       description: Toggle Profiler
       axisConstraint: 0
   - localizationKey: 
-    keyword: Vital Signs
+    keyword: Jarvis Vital Signs
     keyCode: 0
     action:
       id: 0
       description: Toggle Profiler
       axisConstraint: 0
   - localizationKey: 
-    keyword: Turn Off Menu
+    keyword: Jarvis Turn Off Menu
     keyCode: 0
     action:
       id: 0
       description: Toggle Profiler
       axisConstraint: 0
   - localizationKey: 
-    keyword: Extend the Map View
+    keyword: Jarvis Extend the Map View
     keyCode: 0
     action:
       id: 0
       description: Toggle Profiler
       axisConstraint: 0
   - localizationKey: 
-    keyword: Suit Conditions
+    keyword: Jarvis Suit Conditions
     keyCode: 0
     action:
       id: 0
       description: Toggle Profiler
       axisConstraint: 0
   - localizationKey: 
-    keyword: Suit Volume
+    keyword: Jarvis Suit Volume
     keyCode: 0
     action:
       id: 0

@@ -12,6 +12,8 @@ using UnityEngine;
         public GameObject Darkstrawberry;
         public GameObject Emerald;
         public GameObject Bluemarine;
+        public GameObject VitalSign;
+        public GameObject Pulseengine;
         public GameObject Map;
 
         void Start()
@@ -23,6 +25,8 @@ using UnityEngine;
             Darkstrawberry.SetActive(false);
             Emerald.SetActive(false);
             Bluemarine.SetActive(false);
+            VitalSign.SetActive(false);
+            Pulseengine.SetActive(false);
             Map.SetActive(false);
         }
 
@@ -35,6 +39,8 @@ using UnityEngine;
             Darkstrawberry.SetActive(true);
             Emerald.SetActive(true);
             Bluemarine.SetActive(true);
+            VitalSign.SetActive(true);
+            Pulseengine.SetActive(false);
             Map.SetActive(true);
         }
 
@@ -47,6 +53,8 @@ using UnityEngine;
             Darkstrawberry.SetActive(false);
             Emerald.SetActive(false);
             Bluemarine.SetActive(false);
+            VitalSign.SetActive(false);
+            Pulseengine.SetActive(false);
             Map.SetActive(false);
         }
     }
