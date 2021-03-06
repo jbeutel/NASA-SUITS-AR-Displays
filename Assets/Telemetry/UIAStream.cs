@@ -131,19 +131,19 @@ namespace Telemetry
     //    }
 
 
-        //public void Subscribe<T>(Func<UIAData, T> accessor, Func<T, bool> doNotify)
-        //{
+    //    public void Subscribe<T>(Func<UIAData, T> accessor, Func<T, bool> doNotify)
+    //    {
 
-        //}
+    //    }
 
-        //public void Subscribe<T>(Func<UIAData, T> accessor)
-        //{
+    //    public void Subscribe<T>(Func<UIAData, T> accessor)
+    //    {
 
-        //}
+    //    }
 
-        //public void Subscribe(Action<UIAData> data)
-        //{
+    //    public void Subscribe(Action<UIAData> data)
+    //    {
 
-        //}
+    //    }
     }
 }

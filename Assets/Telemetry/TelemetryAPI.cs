@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace Telemetry
 {
-    /// <summary>
+   // <summary>
     /// Class used to query NASA server for state updates.
     /// Server is assumed to always be running and ready to send state updates.
     /// 
@@ -12,11 +12,12 @@ namespace Telemetry
     /// and then open the front end web page and click the "start" buttons for both
     /// telemetry and UIA state simulations.
     /// </summary>
+
     public class TelemetryAPI
     {
-        /// <summary>
-        /// C# represenation of JSON result
-        /// </summary>
+    //    /// <summary>
+    //    /// C# represenation of JSON result
+    //    /// </summary>
     //    public class TelemetryDataRaw
     //    {
     //        public string _id { get; set; }
@@ -108,7 +109,7 @@ namespace Telemetry
     //        response.EnsureSuccessStatusCode();
 
     //        var str = await response.Content.ReadAsStringAsync();
-    //        return JsonSerializer.Deserialize<TelemetryDataRaw>(str);
+    //        //return JsonSerializer.Deserialize<TelemetryDataRaw>(str);
     //    }
 
     //    /// <summary>
@@ -122,7 +123,7 @@ namespace Telemetry
     //        response.EnsureSuccessStatusCode();
 
     //        var str = await response.Content.ReadAsStringAsync();
-    //        return JsonSerializer.Deserialize<UIADataRaw>(str);
+    //       // return JsonSerializer.Deserialize<UIADataRaw>(str);
     //    }
     }
 

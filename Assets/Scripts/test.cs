@@ -9,12 +9,12 @@ public class test : MonoBehaviour{
     // Start is called before the first frame update
     void Start()
     {
-        testtype.SetActive(true);
+        testtype.SetActive(false);
     }
 
-    public void dissappear()
+    public void appear()
     {
-        testtype.SetActive(false);
+        testtype.SetActive(true);
     }
 
 

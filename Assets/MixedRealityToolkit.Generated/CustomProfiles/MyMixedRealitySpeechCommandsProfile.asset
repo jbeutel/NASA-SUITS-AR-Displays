@@ -93,3 +93,31 @@ MonoBehaviour:
       id: 0
       description: Toggle Profiler
       axisConstraint: 0
+  - localizationKey: 
+    keyword: Toggle Main
+    keyCode: 51
+    action:
+      id: 2
+      description: Menu
+      axisConstraint: 2
+  - localizationKey: 
+    keyword: Toggle Nav
+    keyCode: 0
+    action:
+      id: 0
+      description: Toggle Profiler
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Toggle Suit Status
+    keyCode: 0
+    action:
+      id: 0
+      description: Toggle Profiler
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Toggle Tonka
+    keyCode: 0
+    action:
+      id: 0
+      description: Toggle Profiler
+      axisConstraint: 0

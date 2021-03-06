@@ -206,19 +206,19 @@ namespace Telemetry
     //        }
     //    }
 
-        //public void Subscribe<T>(Func<TelemetryData, T> accessor, Func<T, bool> doNotify)
-        //{
+    //    public void Subscribe<T>(Func<TelemetryData, T> accessor, Func<T, bool> doNotify)
+    //    {
 
-        //}
+    //    }
 
-        //public void Subscribe<T>(Func<TelemetryData, T> accessor)
-        //{
+    //    public void Subscribe<T>(Func<TelemetryData, T> accessor)
+    //    {
 
-        //}
+    //    }
 
-        //public void Subscribe(Action<TelemetryData> data)
-        //{
+    //    public void Subscribe(Action<TelemetryData> data)
+    //    {
 
-        //}
+    //    }
     }
 }
