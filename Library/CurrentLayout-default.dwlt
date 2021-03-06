@@ -117,7 +117,7 @@ MonoBehaviour:
   m_MinSize: {x: 908, y: 421}
   m_MaxSize: {x: 22003, y: 10021}
   vertical: 0
-  controlID: 38347
+  controlID: 28159
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 421}
   m_MaxSize: {x: 4001, y: 8021}
   vertical: 1
-  controlID: 38316
+  controlID: 28101
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -401,9 +401,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 322.5, y: 210.5, z: 0}
+    m_Target: {x: -0.13057727, y: -0.13819721, z: 0.72901833}
     speed: 2
-    m_Value: {x: 322.5, y: 210.5, z: 0}
+    m_Value: {x: -0.13057727, y: -0.13819721, z: 0.72901833}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -449,13 +449,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.1832845, y: 0.04251037, z: -0.007946008, w: 0.982117}
+    m_Target: {x: 0.05042831, y: -0.14652039, z: 0.007468274, w: 0.98790413}
     speed: 2
-    m_Value: {x: -0.18328449, y: -0.04251037, z: 0.007946008, w: -0.982117}
+    m_Value: {x: -0.050428305, y: 0.14652039, z: -0.0074682734, w: -0.9879041}
   m_Size:
-    m_Target: 385.1188
+    m_Target: 0.25213385
     speed: 2
-    m_Value: 385.1188
+    m_Value: 0.25213385
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -509,9 +509,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 60920000
-      m_LastClickedID: 37472
-      m_ExpandedIDs: 1eadfffffcafffff12c4ffff7ed9ffff54f9ffff6ef9ffff66fbffff927b000040920000
+      m_SelectedIDs: 281e0100
+      m_LastClickedID: 73256
+      m_ExpandedIDs: 6262fdff0e67fdff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -574,20 +574,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\sanji\OneDrive\Desktop\ImmersiveOffice365
+  m_LastProjectPath: C:\Users\jbeut\Documents\GitHub\NASA-SUITS-AR-Displays
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8c540000
-    m_LastClickedID: 21644
-    m_ExpandedIDs: 000000005e54000060540000625400006454000000ca9a3b
+    m_SelectedIDs: a81c0100
+    m_LastClickedID: 72872
+    m_ExpandedIDs: 00000000a81c0100aa1c0100ac1c0100ae1c010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -615,7 +615,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005e54000060540000625400006454000000ca9a3b
+    m_ExpandedIDs: 00000000a81c0100aa1c0100ac1c0100ae1c010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -708,4 +708,4 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 450
