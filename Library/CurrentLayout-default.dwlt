@@ -117,7 +117,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 8631
+  controlID: 23550
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -137,12 +137,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 822
+    width: 820
     height: 947
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 8717
+  controlID: 23555
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -160,7 +160,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 822
+    width: 820
     height: 481
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -186,7 +186,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 481
-    width: 822
+    width: 820
     height: 466
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -210,9 +210,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 822
+    x: 820
     y: 0
-    width: 202
+    width: 204
     height: 947
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -296,7 +296,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 554
-    width: 821
+    width: 819
     height: 445
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
@@ -307,7 +307,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 821, y: 424}
+  m_TargetSize: {x: 819, y: 424}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -322,8 +322,8 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -410.5
-    m_HBaseRangeMax: 410.5
+    m_HBaseRangeMin: -409.5
+    m_HBaseRangeMax: 409.5
     m_VBaseRangeMin: -212
     m_VBaseRangeMax: 212
     m_HAllowExceedBaseRangeMin: 1
@@ -343,23 +343,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 821
+      width: 819
       height: 424
     m_Scale: {x: 1.8875968, y: 1.8875968}
-    m_Translation: {x: 410.5, y: 212}
+    m_Translation: {x: 409.5, y: 212}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -217.47229
+      x: -216.9425
       y: -112.31212
-      width: 434.94458
+      width: 433.885
       height: 224.62424
     m_MinimalGUI: 1
   m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 821, y: 445}
+  m_LastWindowPixelSize: {x: 819, y: 445}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000001
@@ -388,7 +388,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73
-    width: 821
+    width: 819
     height: 460
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -401,9 +401,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.015600003, y: -0.019399999, z: 0.29900002}
+    m_Target: {x: 0.030329145, y: -0.091726765, z: 0.40597922}
     speed: 2
-    m_Value: {x: -0.015600003, y: -0.019399999, z: 0.29900002}
+    m_Value: {x: 0.030329145, y: -0.091726765, z: 0.40597922}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -449,13 +449,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.097537085, y: 0.32772917, z: -0.034076586, w: 0.93913096}
+    m_Target: {x: 0.031425755, y: 0.06568175, z: -0.002106113, w: 0.9973675}
     speed: 2
-    m_Value: {x: 0.09748352, y: 0.3291296, z: -0.034222033, w: 0.93861586}
+    m_Value: {x: -0.031425755, y: -0.06568175, z: 0.0021061127, w: -0.99736744}
   m_Size:
-    m_Target: 0.06690561
+    m_Target: 0.109971106
     speed: 2
-    m_Value: 0.06690561
+    m_Value: 0.109971106
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -501,17 +501,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 822
+    x: 820
     y: 73
-    width: 200
+    width: 202
     height: 926
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e25e0000
-      m_LastClickedID: 24290
-      m_ExpandedIDs: 3ce7ffffa2e8ffff38eaffff3afbffff665e0000a45e00005e5f0000
+      m_SelectedIDs: ac93ffff
+      m_LastClickedID: -27732
+      m_ExpandedIDs: 7893ffff8c93ffffdec9ffffe2e5ffff7a6900008c690000426a0000466a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -574,20 +574,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Textures
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Textures
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\PokeLegoCuber\Desktop\GitHub Repo\NASA-SUITS-AR-Displays
+  m_LastProjectPath: C:\Users\jbeut\Documents\GitHub\NASA-SUITS-AR-Displays
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 266}
-    m_SelectedIDs: 26810000
-    m_LastClickedID: 33062
-    m_ExpandedIDs: 00000000c4800000c6800000c8800000ca800000cc800000ce800000d0800000d2800000d68000000a810000528c000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 9c890000
+    m_LastClickedID: 35228
+    m_ExpandedIDs: 000000009c8900009e890000a0890000a2890000a4890000a6890000a8890000aa890000ac890000ae890000b089000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -615,7 +615,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c4800000c6800000c8800000ca800000cc800000ce800000d0800000d2800000d68000000a810000528c000000ca9a3b
+    m_ExpandedIDs: 000000009c8900009e890000a0890000a2890000a4890000a6890000a8890000aa890000ac890000ae890000b089000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -708,4 +708,4 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 1906
+  m_LastVerticalScrollValue: 0
