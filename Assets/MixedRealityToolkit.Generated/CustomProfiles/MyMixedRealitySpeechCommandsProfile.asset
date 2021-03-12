@@ -59,7 +59,7 @@ MonoBehaviour:
       description: Toggle Profiler
       axisConstraint: 0
   - localizationKey: 
-    keyword: Jarvis Turn Off the Menu
+    keyword: Jarvis Turn Off Display
     keyCode: 0
     action:
       id: 0
@@ -130,6 +130,13 @@ MonoBehaviour:
       axisConstraint: 0
   - localizationKey: 
     keyword: Jarvis Turn On Toggle Menu
+    keyCode: 0
+    action:
+      id: 0
+      description: Toggle Profiler
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Jarvis Turn On Display
     keyCode: 0
     action:
       id: 0
