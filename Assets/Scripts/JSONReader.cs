@@ -29,4 +29,9 @@ public class JSONReader : MonoBehaviour {
                 outputArea.text = request.downloadHandler.text;
         }
     }
+
+    public static JSONReader CreateFromJSON(string jsonString)
+    {
+        return JsonUtility.FromJson<JSONReader>(jsonString);
+    }
 }
