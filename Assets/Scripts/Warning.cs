@@ -6,9 +6,11 @@ using UnityEngine.UI;
 public class Warning : MonoBehaviour {
     public int heartBPM;
     public int subpressure;
+    public int FANTACHOMETER;
     public GameObject mainCanvas;
     public GameObject sp;
     public GameObject sp2;
+    public GameObject fan;
 
 
     // Start is called before the first frame update
@@ -17,12 +19,14 @@ public class Warning : MonoBehaviour {
         mainCanvas.SetActive(false);
         sp.SetActive(false);
         sp2.SetActive(false);
+        fan.SetActive(false);
     }
 
     void Update()
     {
         HeartWarning();
         PressureWarning();
+        FANTACHOMETERWARNING();
     }
 
     public void HeartWarning()
@@ -50,5 +54,17 @@ public class Warning : MonoBehaviour {
         }
     }
 
+    public void FANTACHOMETERWARNING()
+    {
+        if (FANTACHOMETER < 10000 || FANTACHOMETER > 40000)
+        {
+            fan.SetActive(true);
+        } 
+        else
+        {
+            fan.SetActive(false);
+        }
+
+    }
 
 }
