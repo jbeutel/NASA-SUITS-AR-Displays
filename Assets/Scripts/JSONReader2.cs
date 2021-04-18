@@ -11,16 +11,14 @@ public class JSONReader2 : MonoBehaviour {
     void Start()
     {
         outputArea = GameObject.Find("OutputArea2").GetComponent<InputField>();
-        GameObject.Find("GetButton2").GetComponent<Button>().onClick.AddListener(GetData);
+        StartCoroutine(GetData_Coroutine());
     }
-
-    void GetData() => StartCoroutine(GetData_Coroutine());
 
     IEnumerator GetData_Coroutine()
     {
         outputArea.text = "Loading...";
-        string uri = "http://localhost:3000/api/simulation/uiastate "; 
-        using(UnityWebRequest request = UnityWebRequest.Get(uri))
+        string uri = "http://localhost:3000/api/simulation/uiastate";
+        using (UnityWebRequest request = UnityWebRequest.Get(uri))
         {
             yield return request.SendWebRequest();
             if (request.isNetworkError || request.isHttpError)
